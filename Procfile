@@ -1,1 +1,1 @@
-heroku ps:scale web=1 
+web: python nao_entre_em_panico.py
