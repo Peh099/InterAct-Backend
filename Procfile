@@ -1,1 +1,1 @@
-web: python run.py
+web: python nao_entre_panico.py
