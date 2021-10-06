@@ -1,1 +1,1 @@
-web: python nao_entre_panico.py
+FLASK_APP=run.py flask run
