@@ -1,1 +1,1 @@
-FLASK_APP=run.py flask run
+FLASK_APP=nao_entre_em_panico.py flask run
