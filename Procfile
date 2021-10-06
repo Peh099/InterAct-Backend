@@ -1,1 +1,1 @@
-FLASK_APP=nao_entre_em_panico.py flask run
+web: python nao_entre_em_panico.py
